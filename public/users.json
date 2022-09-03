@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "gender": "Female",
+        "name": "Merrilee",
+        "contact": 96,
+        "address": "7252 Lakeland Park",
+        "photoUrl": "http://dummyimage.com/168x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 2,
+        "gender": "Female",
+        "name": "Stephana",
+        "contact": 63,
+        "address": "60 Northview Parkway",
+        "photoUrl": "http://dummyimage.com/166x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 3,
+        "gender": "Male",
+        "name": "Isador",
+        "contact": 49,
+        "address": "15955 Crownhardt Center",
+        "photoUrl": "http://dummyimage.com/142x100.png/dddddd/000000"
+    },
+    {
+        "id": 4,
+        "gender": "Male",
+        "name": "Thoma",
+        "contact": 2,
+        "address": "2257 Barby Court",
+        "photoUrl": "http://dummyimage.com/205x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 5,
+        "gender": "Male",
+        "name": "Zolly",
+        "contact": 4,
+        "address": "046 Miller Pass",
+        "photoUrl": "http://dummyimage.com/240x100.png/dddddd/000000"
+    },
+    {
+        "id": 6,
+        "gender": "Female",
+        "name": "Maryann",
+        "contact": 57,
+        "address": "35498 Leroy Junction",
+        "photoUrl": "http://dummyimage.com/128x100.png/dddddd/000000"
+    },
+    {
+        "id": 7,
+        "gender": "Female",
+        "name": "Lauralee",
+        "contact": 12,
+        "address": "9459 Lakewood Street",
+        "photoUrl": "http://dummyimage.com/116x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 8,
+        "gender": "Non-binary",
+        "name": "Lou",
+        "contact": 33,
+        "address": "62759 Eggendart Terrace",
+        "photoUrl": "http://dummyimage.com/163x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 9,
+        "gender": "Male",
+        "name": "Mic",
+        "contact": 28,
+        "address": "2349 Coolidge Street",
+        "photoUrl": "http://dummyimage.com/187x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 10,
+        "gender": "Female",
+        "name": "Mathilde",
+        "contact": 23,
+        "address": "2485 Anniversary Alley",
+        "photoUrl": "http://dummyimage.com/245x100.png/dddddd/000000"
+    },
+    {
+        "id": 11,
+        "gender": "Female",
+        "name": "Effie",
+        "contact": 23,
+        "address": "097 Kings Center",
+        "photoUrl": "http://dummyimage.com/120x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 12,
+        "gender": "Male",
+        "name": "Dani",
+        "contact": 14,
+        "address": "65136 Troy Alley",
+        "photoUrl": "http://dummyimage.com/202x100.png/dddddd/000000"
+    },
+    {
+        "id": 13,
+        "gender": "Female",
+        "name": "Torey",
+        "contact": 77,
+        "address": "0006 8th Alley",
+        "photoUrl": "http://dummyimage.com/115x100.png/dddddd/000000"
+    },
+    {
+        "id": 14,
+        "gender": "Female",
+        "name": "Judie",
+        "contact": 55,
+        "address": "06692 Monterey Road",
+        "photoUrl": "http://dummyimage.com/226x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 15,
+        "gender": "Female",
+        "name": "Beryle",
+        "contact": 68,
+        "address": "32446 Luster Way",
+        "photoUrl": "http://dummyimage.com/165x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 16,
+        "gender": "Female",
+        "name": "Melania",
+        "contact": 40,
+        "address": "45 Macpherson Center",
+        "photoUrl": "http://dummyimage.com/207x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 17,
+        "gender": "Male",
+        "name": "Mischa",
+        "contact": 26,
+        "address": "99 Pepper Wood Junction",
+        "photoUrl": "http://dummyimage.com/127x100.png/dddddd/000000"
+    },
+    {
+        "id": 18,
+        "gender": "Female",
+        "name": "Milicent",
+        "contact": 67,
+        "address": "07 Sommers Junction",
+        "photoUrl": "http://dummyimage.com/150x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 19,
+        "gender": "Female",
+        "name": "Elizabeth",
+        "contact": 42,
+        "address": "0095 Troy Plaza",
+        "photoUrl": "http://dummyimage.com/167x100.png/dddddd/000000"
+    },
+    {
+        "id": 20,
+        "gender": "Male",
+        "name": "Farlee",
+        "contact": 71,
+        "address": "19070 Division Street",
+        "photoUrl": "http://dummyimage.com/180x100.png/ff4444/ffffff"
+    }
+]
